@@ -6,6 +6,36 @@
       "abilityOverride": ""
     },
     {
+      "abilityID": "Avatar_Lauma_ExtraAttack_Damage",
+      "abilityName": "Avatar_Lauma_ExtraAttack_Damage",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_SpecialMove",
+      "abilityName": "Avatar_Lauma_SpecialMove",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_Frostmoon_Humanities",
+      "abilityName": "Avatar_Lauma_Frostmoon_Humanities",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_Frostmoon_Attack01",
+      "abilityName": "Avatar_Lauma_Frostmoon_Attack01",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_Frostmoon_Attack02",
+      "abilityName": "Avatar_Lauma_Frostmoon_Attack02",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Lauma_Frostmoon_Attack03",
+      "abilityName": "Avatar_Lauma_Frostmoon_Attack03",
+      "abilityOverride": ""
+    },
+    {
       "abilityID": "Avatar_Lauma_Constellation_1",
       "abilityName": "Avatar_Lauma_Constellation_1",
       "abilityOverride": ""
