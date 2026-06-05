@@ -1,10 +1,10 @@
 # 6.0 resources
 
-# Not entirely functional
+Not a 100% functional
 
 # Credits:
 
-- me for putting this together
+- pmagixc for putting this together
 - hiro for resources
 - dimbreath for resources as well
 - yuuki for resource inspiration
